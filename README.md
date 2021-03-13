@@ -10,6 +10,10 @@ Recursos-----Audios that were used for the transformations and the application
 
 # Versions
 ```
-MATLAB-------Version 9.7 (R2019b)
+Software
+MATLAB----------Version 9.7 (R2019b)
+
+Library
+Audio Toolbox---Version R2019b Update 5
 ```
 In the first part, we had 2 audios in different formats (MP3 and WAV) we had to introduce them to the code and later, find their mathematical form (sinosoid) and then form the same mathematical form, but clean. In the second part, the application aimed to collect all the forms of the word "Juan" and process it. When he had already saved them, they had to be compared in an audiobook and he had to show how many times the word "Juan" sounded. 
